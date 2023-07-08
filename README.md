@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### npm i vue-signals
+```
+npm i vue-signals
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
